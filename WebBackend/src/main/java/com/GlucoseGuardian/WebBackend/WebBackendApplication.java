@@ -9,5 +9,5 @@ public class WebBackendApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(WebBackendApplication.class, args);
 	}
-
+			System.out.println("test");
 }
